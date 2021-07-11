@@ -1,8 +1,27 @@
-# React App which displays artists and their events information
-
-
+# A Responsive React App which displays artists and their events information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+App uses bands in town api to fetch artist data and display their information.
+The home page of the app looks like this, where the user can either register/login by clicking on 'GET STARTED' or they can search artist through the 'SEARCH ARTIST' button.
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui1.PNG)
+
+The home page also displays some random information related to events 
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_2.PNG)
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_3.PNG)
+
+The footer of the app looks like this:
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_4.PNG)
+
+The 'Search Artist' component of the app allows the user to search any artist.
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_6.PNG)
+
+This is what happens when the user enters an artist name:
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_7.PNG)
+
+If the user wants to view the artist's events:
+![UI_Screenshots](https://github.com/saraashraff/react-project/blob/master/UI%20Screenshots/ui_8.PNG)
+
 
 ## Available Scripts
 
